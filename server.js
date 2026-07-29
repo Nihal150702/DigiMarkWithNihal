@@ -252,5 +252,5 @@ app.use((req, res) => {
 // START SERVER
 // ===============================
 app.listen(PORT, () => {
-    console.log(`🚀 Server running at http://localhost:${PORT}`);
+    console.log(`🚀 Server running at https://localhost:${PORT}`);
 });
